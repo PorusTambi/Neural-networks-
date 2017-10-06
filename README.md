@@ -1,9 +1,8 @@
 # Neural-networks-
 This code I have written as an assignment given on week 5 on coursera "MACHINE LEARNING" course by Prof. Andrew Ng Stanford university 
 -------------------------------------------------------------------------------------------------------
-1) This has ex4 folder which contains various scipts written in octave/matlab programming language
-2) It has pdf ex4 which tells about a task which is accomplished with this code 
-3) The neural networks code is just global and it can be used for different purposes
+1) It has pdf ex4 which tells about a task which is accomplished with this code 
+2) The neural networks code is just global and it can be used for different purposes
 -------------------------------------------------------------------------------------
   EXPLANATION OF SCRIPTS
 1) ex4.m - Octave/MATLAB script that steps you through the exercise
