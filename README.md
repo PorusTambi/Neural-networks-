@@ -1,5 +1,5 @@
 # Neural-networks-
-This code I have wriitten as an assignment given on week 5 on coursera "MACHINE LEARNING" course by Prof. Andrew Ng Stanford university 
+This code I have written as an assignment given on week 5 on coursera "MACHINE LEARNING" course by Prof. Andrew Ng Stanford university 
 -------------------------------------------------------------------------------------------------------
 1) This has ex4 folder which contains various scipts written in octave/matlab programming language
 2) It has pdf ex4 which tells about a task which is accomplished with this code 
